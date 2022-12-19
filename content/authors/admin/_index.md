@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: Arles
+name_pronunciation: A R L E S
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,11 +15,11 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
-#  url: ""
+#- name: Curta.RED
+#  url: "https://curta.red"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 'Analista de Dados'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -28,31 +28,19 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:arles@curta.red'
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/spacex/
-  - icon: weibo
-    icon_pack: fab
-    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+    link: https://social.arles.io/@arles
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/aarles
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
     icon_pack: fas
-    label: View Resume
+    label: Currículo
     link: uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+#email: "arles@curta.red"
 ---
