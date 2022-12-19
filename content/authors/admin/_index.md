@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Arles
-name_pronunciation: A R L E S
+# name_pronunciation:
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,8 +15,8 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: Curta.RED
-#  url: "https://curta.red"
+- name: Curta.RED
+  url: "https://curta.red"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Analista de Dados'
