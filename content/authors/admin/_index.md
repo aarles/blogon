@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Arles
-# name_pronunciation:
+name_pronunciation:
 
 # Is this the primary user of the site?
 superuser: true
