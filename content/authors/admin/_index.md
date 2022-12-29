@@ -7,7 +7,7 @@ name_pronunciation:
 superuser: true
 
 # Role/position
-role: ''
+url: '<a rel="me" href="https://ursal.zone/@arles"></a>'
 
 # Status emoji
 status:
