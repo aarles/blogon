@@ -6,12 +6,9 @@ name_pronunciation:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-url: '<a rel="me" href="https://ursal.zone/@arles"></a>'
-
 # Status emoji
 status:
-  icon: ☕️
+  icon: ♾️
 
 # Organizations/Affiliations
 #organizations:
