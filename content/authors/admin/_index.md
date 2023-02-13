@@ -31,7 +31,7 @@ social:
     link: https://t.me/aarles
   - icon: mastodon
     icon_pack: fab
-    link: https://social.arles.io/@arles
+    link: https://social.dados.red/@arles
   - icon: github
     icon_pack: fab
     link: https://github.com/aarles
