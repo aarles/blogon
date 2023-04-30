@@ -26,15 +26,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:arles@curta.red'
+    label: email
   - icon: github
     icon_pack: fab
     link: https://github.com/aarles
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/aarles
+    label: Linkedin
   - icon: message
     icon_pack: fas
     link: https://matrix.to/#/@aarles:matrix.org
+    label: Matrix (mensagem)
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
