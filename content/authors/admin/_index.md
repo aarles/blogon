@@ -30,6 +30,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/aarles
+    label: GitHub
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/aarles
