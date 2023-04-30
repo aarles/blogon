@@ -26,9 +26,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:arles@curta.red'
-  - icon: telegram
-    icon_pack: fab
-    link: https://t.me/aarles
   - icon: github
     icon_pack: fab
     link: https://github.com/aarles
